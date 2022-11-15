@@ -1,0 +1,6 @@
+# Pavement Final Project
+
+* **Objective** - To create an application which...
+* **Description**
+   * Run this application by ...
+   * Navigate to `localhost/8080` from a browser (`Chrome`, or `Firefox`)
